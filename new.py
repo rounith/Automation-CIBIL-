@@ -12,8 +12,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 # CONFIGURATION
 # ==========================
 URL = "https://dc.cibil.com/DE/ccir/Login.aspx"
-USERNAME = "BS00115030_GITCCIR104683"   # your username
-PASSWORD = "CIBILgitc@4430"             # your password
+USERNAME = # your username
+PASSWORD = # your password
 EXCEL_FILE = "data.xlsx"                # must be in same folder
 
 month_map = {
